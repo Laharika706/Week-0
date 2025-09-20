@@ -14,8 +14,8 @@ Set up the design environment by installing open-source tools and validating the
 | Tool            | Status        |
 |-----------------|----------------|
 | Yosys           | ✅ Installed  |
-| Icarus Verilog  | ✅ Working    |
-| GTKWave         | ✅ Tested     |
+| Icarus Verilog  | ✅ Installed   |
+| GTKWave         | ✅ installed     |
 
 
 ## 🔜 Next
